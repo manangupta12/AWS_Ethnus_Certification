@@ -1,6 +1,7 @@
 # AWS_Ethnus_Certification
 This repository contains the document with relevant screenshots required for the AWS Webinar Certification by Ethnus.
-#Content of the PDF Document 
+
+*Content of the PDF Document* 
 
 **Screenshots for Dashboards**
 1. AWS Login screen with username
