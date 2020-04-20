@@ -40,3 +40,6 @@ This repository contains the document with relevant screenshots required for the
 
 **Screenshots for EC2 & Rekognition**
 1. Face Detect success screenshot
+
+Certificate - 
+![Manan Gupta](AWS_certificate.jpg)
