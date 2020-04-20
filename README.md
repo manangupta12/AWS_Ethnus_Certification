@@ -42,4 +42,4 @@ This repository contains the document with relevant screenshots required for the
 1. Face Detect success screenshot
 
 Certificate - 
-![Manan Gupta](AWS_certificate.jpg)
+![Manan Gupta](AWS_certificate.png)
